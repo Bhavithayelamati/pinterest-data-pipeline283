@@ -1,5 +1,5 @@
 # Pinterest Data Pipeline Setup
-##Table of contents
+## Table of contents
 ## Overview
 This project involves setting up a data pipeline for Pinterest data using Amazon Managed Streaming for Apache Kafka (MSK) and Amazon EC2 on the AWS cloud. The pipeline will handle Pinterest posts data, post geolocation data, and post user data.
 
